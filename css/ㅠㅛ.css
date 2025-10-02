@@ -44,6 +44,7 @@
         .but2{
             color: #333;
             font-size: 14px;
+            text-shadow: 3px 3px 2px #fdfdfd;
         }
 
         header {
@@ -114,4 +115,5 @@
             font-size: 100%;
             background-image: url(../img/200.gif);
             background-position: bottom;
+
         }
